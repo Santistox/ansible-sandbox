@@ -1,0 +1,2 @@
+[default]
+34.91.155.12 nsible_connection=ssh ansible_user=20231201 ansible_ssh_pass=test
